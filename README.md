@@ -6,3 +6,4 @@ python main.py -m railfence -t testcase1.txt
 >> key
 python main.py -m product -t testcase1.txt
 ```
+Đây là chỉnh sửa số 1
