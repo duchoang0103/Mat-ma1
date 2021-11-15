@@ -7,5 +7,3 @@ python main.py -m railfence -t testcase1.txt
 python main.py -m product -t testcase1.txt
 ```
 pyiotifcjvkblopuytifu
-ôpiugfhjvbnjpoougivj
-ádasdasdasd
